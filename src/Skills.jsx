@@ -6,7 +6,7 @@ import Nodejs from "./assets/Nodejs.png"
 import Python from "./assets/Python.png"
 import Sql from "./assets/Sql.jpg"
 import Mysql from "./assets/Mysql.png"
-import Github from "./assets/Github.png"
+import Github from "./assets/GitHub.png"
 import Vscode from "./assets/Vscode.jpg"
 
 import "./Skills.css";
